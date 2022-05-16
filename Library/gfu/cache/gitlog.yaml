@@ -1,0 +1,3462 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2022-05-12T13:57:14.066-04:00
+  initializedAtString: 2022-05-12T13:57:14.055-04:00
+  log:
+  - commitID: 6378c116bde49da09516bf668828d4ecbb1036f3
+    mergeA: 
+    mergeB: 
+    authorName: Thingula
+    authorEmail: mims.christopher@gmail.com
+    commitEmail: mims.christopher@gmail.com
+    commitName: Thingula
+    summary: Added cards
+    description: 
+    timeString: 2022-05-12T13:56:29.000-04:00
+    commitTimeString: 2022-05-12T13:56:29.000-04:00
+    changes:
+    - path: .vsconfig
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\.vsconfig
+      projectPath: .vsconfig
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Animations.meta
+      projectPath: Assets\Animations.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork.meta
+      projectPath: Assets\Artwork.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon.meta
+      projectPath: Assets\Artwork\Lexicon.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\1.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\1.png
+      projectPath: Assets\Artwork\Lexicon\1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\1.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\1.png.meta
+      projectPath: Assets\Artwork\Lexicon\1.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\10.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\10.png
+      projectPath: Assets\Artwork\Lexicon\10.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\10.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\10.png.meta
+      projectPath: Assets\Artwork\Lexicon\10.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\100.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\100.png
+      projectPath: Assets\Artwork\Lexicon\100.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\100.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\100.png.meta
+      projectPath: Assets\Artwork\Lexicon\100.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\101.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\101.png
+      projectPath: Assets\Artwork\Lexicon\101.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\101.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\101.png.meta
+      projectPath: Assets\Artwork\Lexicon\101.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\102.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\102.png
+      projectPath: Assets\Artwork\Lexicon\102.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\102.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\102.png.meta
+      projectPath: Assets\Artwork\Lexicon\102.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\103.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\103.png
+      projectPath: Assets\Artwork\Lexicon\103.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\103.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\103.png.meta
+      projectPath: Assets\Artwork\Lexicon\103.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\104.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\104.png
+      projectPath: Assets\Artwork\Lexicon\104.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\104.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\104.png.meta
+      projectPath: Assets\Artwork\Lexicon\104.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\105.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\105.png
+      projectPath: Assets\Artwork\Lexicon\105.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\105.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\105.png.meta
+      projectPath: Assets\Artwork\Lexicon\105.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\106.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\106.png
+      projectPath: Assets\Artwork\Lexicon\106.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\106.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\106.png.meta
+      projectPath: Assets\Artwork\Lexicon\106.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\107.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\107.png
+      projectPath: Assets\Artwork\Lexicon\107.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\107.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\107.png.meta
+      projectPath: Assets\Artwork\Lexicon\107.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\108.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\108.png
+      projectPath: Assets\Artwork\Lexicon\108.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\108.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\108.png.meta
+      projectPath: Assets\Artwork\Lexicon\108.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\109.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\109.png
+      projectPath: Assets\Artwork\Lexicon\109.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\109.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\109.png.meta
+      projectPath: Assets\Artwork\Lexicon\109.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\11.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\11.png
+      projectPath: Assets\Artwork\Lexicon\11.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\11.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\11.png.meta
+      projectPath: Assets\Artwork\Lexicon\11.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\110.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\110.png
+      projectPath: Assets\Artwork\Lexicon\110.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\110.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\110.png.meta
+      projectPath: Assets\Artwork\Lexicon\110.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\111.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\111.png
+      projectPath: Assets\Artwork\Lexicon\111.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\111.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\111.png.meta
+      projectPath: Assets\Artwork\Lexicon\111.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\112.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\112.png
+      projectPath: Assets\Artwork\Lexicon\112.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\112.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\112.png.meta
+      projectPath: Assets\Artwork\Lexicon\112.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\113.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\113.png
+      projectPath: Assets\Artwork\Lexicon\113.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\113.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\113.png.meta
+      projectPath: Assets\Artwork\Lexicon\113.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\114.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\114.png
+      projectPath: Assets\Artwork\Lexicon\114.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\114.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\114.png.meta
+      projectPath: Assets\Artwork\Lexicon\114.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\115.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\115.png
+      projectPath: Assets\Artwork\Lexicon\115.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\115.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\115.png.meta
+      projectPath: Assets\Artwork\Lexicon\115.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\116.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\116.png
+      projectPath: Assets\Artwork\Lexicon\116.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\116.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\116.png.meta
+      projectPath: Assets\Artwork\Lexicon\116.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\117.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\117.png
+      projectPath: Assets\Artwork\Lexicon\117.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\117.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\117.png.meta
+      projectPath: Assets\Artwork\Lexicon\117.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\118.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\118.png
+      projectPath: Assets\Artwork\Lexicon\118.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\118.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\118.png.meta
+      projectPath: Assets\Artwork\Lexicon\118.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\119.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\119.png
+      projectPath: Assets\Artwork\Lexicon\119.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\119.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\119.png.meta
+      projectPath: Assets\Artwork\Lexicon\119.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\12.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\12.png
+      projectPath: Assets\Artwork\Lexicon\12.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\12.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\12.png.meta
+      projectPath: Assets\Artwork\Lexicon\12.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\120.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\120.png
+      projectPath: Assets\Artwork\Lexicon\120.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\120.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\120.png.meta
+      projectPath: Assets\Artwork\Lexicon\120.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\121.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\121.png
+      projectPath: Assets\Artwork\Lexicon\121.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\121.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\121.png.meta
+      projectPath: Assets\Artwork\Lexicon\121.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\122.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\122.png
+      projectPath: Assets\Artwork\Lexicon\122.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\122.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\122.png.meta
+      projectPath: Assets\Artwork\Lexicon\122.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\123.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\123.png
+      projectPath: Assets\Artwork\Lexicon\123.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\123.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\123.png.meta
+      projectPath: Assets\Artwork\Lexicon\123.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\124.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\124.png
+      projectPath: Assets\Artwork\Lexicon\124.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\124.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\124.png.meta
+      projectPath: Assets\Artwork\Lexicon\124.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\125.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\125.png
+      projectPath: Assets\Artwork\Lexicon\125.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\125.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\125.png.meta
+      projectPath: Assets\Artwork\Lexicon\125.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\126.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\126.png
+      projectPath: Assets\Artwork\Lexicon\126.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\126.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\126.png.meta
+      projectPath: Assets\Artwork\Lexicon\126.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\127.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\127.png
+      projectPath: Assets\Artwork\Lexicon\127.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\127.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\127.png.meta
+      projectPath: Assets\Artwork\Lexicon\127.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\128.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\128.png
+      projectPath: Assets\Artwork\Lexicon\128.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\128.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\128.png.meta
+      projectPath: Assets\Artwork\Lexicon\128.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\129.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\129.png
+      projectPath: Assets\Artwork\Lexicon\129.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\129.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\129.png.meta
+      projectPath: Assets\Artwork\Lexicon\129.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\13.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\13.png
+      projectPath: Assets\Artwork\Lexicon\13.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\13.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\13.png.meta
+      projectPath: Assets\Artwork\Lexicon\13.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\130.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\130.png
+      projectPath: Assets\Artwork\Lexicon\130.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\130.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\130.png.meta
+      projectPath: Assets\Artwork\Lexicon\130.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\131.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\131.png
+      projectPath: Assets\Artwork\Lexicon\131.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\131.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\131.png.meta
+      projectPath: Assets\Artwork\Lexicon\131.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\132.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\132.png
+      projectPath: Assets\Artwork\Lexicon\132.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\132.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\132.png.meta
+      projectPath: Assets\Artwork\Lexicon\132.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\133.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\133.png
+      projectPath: Assets\Artwork\Lexicon\133.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\133.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\133.png.meta
+      projectPath: Assets\Artwork\Lexicon\133.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\134.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\134.png
+      projectPath: Assets\Artwork\Lexicon\134.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\134.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\134.png.meta
+      projectPath: Assets\Artwork\Lexicon\134.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\135.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\135.png
+      projectPath: Assets\Artwork\Lexicon\135.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\135.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\135.png.meta
+      projectPath: Assets\Artwork\Lexicon\135.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\136.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\136.png
+      projectPath: Assets\Artwork\Lexicon\136.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\136.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\136.png.meta
+      projectPath: Assets\Artwork\Lexicon\136.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\137.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\137.png
+      projectPath: Assets\Artwork\Lexicon\137.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\137.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\137.png.meta
+      projectPath: Assets\Artwork\Lexicon\137.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\138.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\138.png
+      projectPath: Assets\Artwork\Lexicon\138.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\138.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\138.png.meta
+      projectPath: Assets\Artwork\Lexicon\138.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\139.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\139.png
+      projectPath: Assets\Artwork\Lexicon\139.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\139.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\139.png.meta
+      projectPath: Assets\Artwork\Lexicon\139.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\14.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\14.png
+      projectPath: Assets\Artwork\Lexicon\14.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\14.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\14.png.meta
+      projectPath: Assets\Artwork\Lexicon\14.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\140.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\140.png
+      projectPath: Assets\Artwork\Lexicon\140.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\140.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\140.png.meta
+      projectPath: Assets\Artwork\Lexicon\140.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\141.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\141.png
+      projectPath: Assets\Artwork\Lexicon\141.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\141.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\141.png.meta
+      projectPath: Assets\Artwork\Lexicon\141.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\142.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\142.png
+      projectPath: Assets\Artwork\Lexicon\142.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\142.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\142.png.meta
+      projectPath: Assets\Artwork\Lexicon\142.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\143.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\143.png
+      projectPath: Assets\Artwork\Lexicon\143.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\143.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\143.png.meta
+      projectPath: Assets\Artwork\Lexicon\143.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\144.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\144.png
+      projectPath: Assets\Artwork\Lexicon\144.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\144.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\144.png.meta
+      projectPath: Assets\Artwork\Lexicon\144.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\145.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\145.png
+      projectPath: Assets\Artwork\Lexicon\145.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\145.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\145.png.meta
+      projectPath: Assets\Artwork\Lexicon\145.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\146.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\146.png
+      projectPath: Assets\Artwork\Lexicon\146.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\146.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\146.png.meta
+      projectPath: Assets\Artwork\Lexicon\146.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\147.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\147.png
+      projectPath: Assets\Artwork\Lexicon\147.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\147.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\147.png.meta
+      projectPath: Assets\Artwork\Lexicon\147.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\148.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\148.png
+      projectPath: Assets\Artwork\Lexicon\148.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\148.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\148.png.meta
+      projectPath: Assets\Artwork\Lexicon\148.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\149.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\149.png
+      projectPath: Assets\Artwork\Lexicon\149.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\149.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\149.png.meta
+      projectPath: Assets\Artwork\Lexicon\149.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\15.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\15.png
+      projectPath: Assets\Artwork\Lexicon\15.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\15.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\15.png.meta
+      projectPath: Assets\Artwork\Lexicon\15.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\150.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\150.png
+      projectPath: Assets\Artwork\Lexicon\150.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\150.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\150.png.meta
+      projectPath: Assets\Artwork\Lexicon\150.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\151.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\151.png
+      projectPath: Assets\Artwork\Lexicon\151.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\151.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\151.png.meta
+      projectPath: Assets\Artwork\Lexicon\151.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\152.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\152.png
+      projectPath: Assets\Artwork\Lexicon\152.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\152.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\152.png.meta
+      projectPath: Assets\Artwork\Lexicon\152.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\153.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\153.png
+      projectPath: Assets\Artwork\Lexicon\153.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\153.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\153.png.meta
+      projectPath: Assets\Artwork\Lexicon\153.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\154.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\154.png
+      projectPath: Assets\Artwork\Lexicon\154.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\154.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\154.png.meta
+      projectPath: Assets\Artwork\Lexicon\154.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\155.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\155.png
+      projectPath: Assets\Artwork\Lexicon\155.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\155.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\155.png.meta
+      projectPath: Assets\Artwork\Lexicon\155.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\156.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\156.png
+      projectPath: Assets\Artwork\Lexicon\156.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\156.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\156.png.meta
+      projectPath: Assets\Artwork\Lexicon\156.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\157.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\157.png
+      projectPath: Assets\Artwork\Lexicon\157.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\157.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\157.png.meta
+      projectPath: Assets\Artwork\Lexicon\157.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\158.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\158.png
+      projectPath: Assets\Artwork\Lexicon\158.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\158.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\158.png.meta
+      projectPath: Assets\Artwork\Lexicon\158.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\159.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\159.png
+      projectPath: Assets\Artwork\Lexicon\159.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\159.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\159.png.meta
+      projectPath: Assets\Artwork\Lexicon\159.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\16.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\16.png
+      projectPath: Assets\Artwork\Lexicon\16.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\16.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\16.png.meta
+      projectPath: Assets\Artwork\Lexicon\16.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\160.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\160.png
+      projectPath: Assets\Artwork\Lexicon\160.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\160.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\160.png.meta
+      projectPath: Assets\Artwork\Lexicon\160.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\161.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\161.png
+      projectPath: Assets\Artwork\Lexicon\161.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\161.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\161.png.meta
+      projectPath: Assets\Artwork\Lexicon\161.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\162.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\162.png
+      projectPath: Assets\Artwork\Lexicon\162.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\162.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\162.png.meta
+      projectPath: Assets\Artwork\Lexicon\162.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\163.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\163.png
+      projectPath: Assets\Artwork\Lexicon\163.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\163.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\163.png.meta
+      projectPath: Assets\Artwork\Lexicon\163.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\164.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\164.png
+      projectPath: Assets\Artwork\Lexicon\164.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\164.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\164.png.meta
+      projectPath: Assets\Artwork\Lexicon\164.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\165.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\165.png
+      projectPath: Assets\Artwork\Lexicon\165.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\165.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\165.png.meta
+      projectPath: Assets\Artwork\Lexicon\165.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\166.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\166.png
+      projectPath: Assets\Artwork\Lexicon\166.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\166.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\166.png.meta
+      projectPath: Assets\Artwork\Lexicon\166.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\167.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\167.png
+      projectPath: Assets\Artwork\Lexicon\167.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\167.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\167.png.meta
+      projectPath: Assets\Artwork\Lexicon\167.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\168.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\168.png
+      projectPath: Assets\Artwork\Lexicon\168.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\168.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\168.png.meta
+      projectPath: Assets\Artwork\Lexicon\168.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\169.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\169.png
+      projectPath: Assets\Artwork\Lexicon\169.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\169.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\169.png.meta
+      projectPath: Assets\Artwork\Lexicon\169.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\17.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\17.png
+      projectPath: Assets\Artwork\Lexicon\17.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\17.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\17.png.meta
+      projectPath: Assets\Artwork\Lexicon\17.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\170.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\170.png
+      projectPath: Assets\Artwork\Lexicon\170.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\170.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\170.png.meta
+      projectPath: Assets\Artwork\Lexicon\170.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\171.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\171.png
+      projectPath: Assets\Artwork\Lexicon\171.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\171.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\171.png.meta
+      projectPath: Assets\Artwork\Lexicon\171.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\172.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\172.png
+      projectPath: Assets\Artwork\Lexicon\172.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\172.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\172.png.meta
+      projectPath: Assets\Artwork\Lexicon\172.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\173.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\173.png
+      projectPath: Assets\Artwork\Lexicon\173.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\173.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\173.png.meta
+      projectPath: Assets\Artwork\Lexicon\173.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\174.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\174.png
+      projectPath: Assets\Artwork\Lexicon\174.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\174.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\174.png.meta
+      projectPath: Assets\Artwork\Lexicon\174.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\175.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\175.png
+      projectPath: Assets\Artwork\Lexicon\175.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\175.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\175.png.meta
+      projectPath: Assets\Artwork\Lexicon\175.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\176.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\176.png
+      projectPath: Assets\Artwork\Lexicon\176.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\176.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\176.png.meta
+      projectPath: Assets\Artwork\Lexicon\176.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\177.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\177.png
+      projectPath: Assets\Artwork\Lexicon\177.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\177.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\177.png.meta
+      projectPath: Assets\Artwork\Lexicon\177.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\178.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\178.png
+      projectPath: Assets\Artwork\Lexicon\178.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\178.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\178.png.meta
+      projectPath: Assets\Artwork\Lexicon\178.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\179.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\179.png
+      projectPath: Assets\Artwork\Lexicon\179.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\179.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\179.png.meta
+      projectPath: Assets\Artwork\Lexicon\179.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\18.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\18.png
+      projectPath: Assets\Artwork\Lexicon\18.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\18.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\18.png.meta
+      projectPath: Assets\Artwork\Lexicon\18.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\180.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\180.png
+      projectPath: Assets\Artwork\Lexicon\180.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\180.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\180.png.meta
+      projectPath: Assets\Artwork\Lexicon\180.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\181.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\181.png
+      projectPath: Assets\Artwork\Lexicon\181.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\181.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\181.png.meta
+      projectPath: Assets\Artwork\Lexicon\181.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\182.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\182.png
+      projectPath: Assets\Artwork\Lexicon\182.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\182.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\182.png.meta
+      projectPath: Assets\Artwork\Lexicon\182.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\183.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\183.png
+      projectPath: Assets\Artwork\Lexicon\183.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\183.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\183.png.meta
+      projectPath: Assets\Artwork\Lexicon\183.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\184.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\184.png
+      projectPath: Assets\Artwork\Lexicon\184.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\184.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\184.png.meta
+      projectPath: Assets\Artwork\Lexicon\184.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\185.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\185.png
+      projectPath: Assets\Artwork\Lexicon\185.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\185.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\185.png.meta
+      projectPath: Assets\Artwork\Lexicon\185.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\186.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\186.png
+      projectPath: Assets\Artwork\Lexicon\186.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\186.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\186.png.meta
+      projectPath: Assets\Artwork\Lexicon\186.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\187.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\187.png
+      projectPath: Assets\Artwork\Lexicon\187.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\187.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\187.png.meta
+      projectPath: Assets\Artwork\Lexicon\187.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\188.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\188.png
+      projectPath: Assets\Artwork\Lexicon\188.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\188.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\188.png.meta
+      projectPath: Assets\Artwork\Lexicon\188.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\189.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\189.png
+      projectPath: Assets\Artwork\Lexicon\189.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\189.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\189.png.meta
+      projectPath: Assets\Artwork\Lexicon\189.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\19.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\19.png
+      projectPath: Assets\Artwork\Lexicon\19.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\19.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\19.png.meta
+      projectPath: Assets\Artwork\Lexicon\19.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\190.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\190.png
+      projectPath: Assets\Artwork\Lexicon\190.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\190.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\190.png.meta
+      projectPath: Assets\Artwork\Lexicon\190.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\191.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\191.png
+      projectPath: Assets\Artwork\Lexicon\191.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\191.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\191.png.meta
+      projectPath: Assets\Artwork\Lexicon\191.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\192.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\192.png
+      projectPath: Assets\Artwork\Lexicon\192.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\192.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\192.png.meta
+      projectPath: Assets\Artwork\Lexicon\192.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\193.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\193.png
+      projectPath: Assets\Artwork\Lexicon\193.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\193.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\193.png.meta
+      projectPath: Assets\Artwork\Lexicon\193.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\194.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\194.png
+      projectPath: Assets\Artwork\Lexicon\194.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\194.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\194.png.meta
+      projectPath: Assets\Artwork\Lexicon\194.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\195.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\195.png
+      projectPath: Assets\Artwork\Lexicon\195.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\195.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\195.png.meta
+      projectPath: Assets\Artwork\Lexicon\195.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\196.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\196.png
+      projectPath: Assets\Artwork\Lexicon\196.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\196.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\196.png.meta
+      projectPath: Assets\Artwork\Lexicon\196.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\197.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\197.png
+      projectPath: Assets\Artwork\Lexicon\197.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\197.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\197.png.meta
+      projectPath: Assets\Artwork\Lexicon\197.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\198.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\198.png
+      projectPath: Assets\Artwork\Lexicon\198.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\198.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\198.png.meta
+      projectPath: Assets\Artwork\Lexicon\198.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\199.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\199.png
+      projectPath: Assets\Artwork\Lexicon\199.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\199.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\199.png.meta
+      projectPath: Assets\Artwork\Lexicon\199.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\2.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\2.png
+      projectPath: Assets\Artwork\Lexicon\2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\2.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\2.png.meta
+      projectPath: Assets\Artwork\Lexicon\2.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\20.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\20.png
+      projectPath: Assets\Artwork\Lexicon\20.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\20.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\20.png.meta
+      projectPath: Assets\Artwork\Lexicon\20.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\200.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\200.png
+      projectPath: Assets\Artwork\Lexicon\200.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\200.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\200.png.meta
+      projectPath: Assets\Artwork\Lexicon\200.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\201.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\201.png
+      projectPath: Assets\Artwork\Lexicon\201.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\201.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\201.png.meta
+      projectPath: Assets\Artwork\Lexicon\201.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\202.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\202.png
+      projectPath: Assets\Artwork\Lexicon\202.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\202.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\202.png.meta
+      projectPath: Assets\Artwork\Lexicon\202.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\203.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\203.png
+      projectPath: Assets\Artwork\Lexicon\203.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\203.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\203.png.meta
+      projectPath: Assets\Artwork\Lexicon\203.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\204.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\204.png
+      projectPath: Assets\Artwork\Lexicon\204.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\204.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\204.png.meta
+      projectPath: Assets\Artwork\Lexicon\204.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\205.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\205.png
+      projectPath: Assets\Artwork\Lexicon\205.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\205.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\205.png.meta
+      projectPath: Assets\Artwork\Lexicon\205.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\206.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\206.png
+      projectPath: Assets\Artwork\Lexicon\206.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\206.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\206.png.meta
+      projectPath: Assets\Artwork\Lexicon\206.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\207.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\207.png
+      projectPath: Assets\Artwork\Lexicon\207.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\207.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\207.png.meta
+      projectPath: Assets\Artwork\Lexicon\207.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\208.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\208.png
+      projectPath: Assets\Artwork\Lexicon\208.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\208.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\208.png.meta
+      projectPath: Assets\Artwork\Lexicon\208.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\209.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\209.png
+      projectPath: Assets\Artwork\Lexicon\209.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\209.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\209.png.meta
+      projectPath: Assets\Artwork\Lexicon\209.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\21.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\21.png
+      projectPath: Assets\Artwork\Lexicon\21.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\21.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\21.png.meta
+      projectPath: Assets\Artwork\Lexicon\21.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\210.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\210.png
+      projectPath: Assets\Artwork\Lexicon\210.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\210.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\210.png.meta
+      projectPath: Assets\Artwork\Lexicon\210.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\211.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\211.png
+      projectPath: Assets\Artwork\Lexicon\211.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\211.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\211.png.meta
+      projectPath: Assets\Artwork\Lexicon\211.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\212.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\212.png
+      projectPath: Assets\Artwork\Lexicon\212.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\212.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\212.png.meta
+      projectPath: Assets\Artwork\Lexicon\212.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\213.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\213.png
+      projectPath: Assets\Artwork\Lexicon\213.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\213.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\213.png.meta
+      projectPath: Assets\Artwork\Lexicon\213.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\214.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\214.png
+      projectPath: Assets\Artwork\Lexicon\214.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\214.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\214.png.meta
+      projectPath: Assets\Artwork\Lexicon\214.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\215.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\215.png
+      projectPath: Assets\Artwork\Lexicon\215.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\215.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\215.png.meta
+      projectPath: Assets\Artwork\Lexicon\215.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\216.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\216.png
+      projectPath: Assets\Artwork\Lexicon\216.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\216.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\216.png.meta
+      projectPath: Assets\Artwork\Lexicon\216.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\217.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\217.png
+      projectPath: Assets\Artwork\Lexicon\217.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\217.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\217.png.meta
+      projectPath: Assets\Artwork\Lexicon\217.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\218.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\218.png
+      projectPath: Assets\Artwork\Lexicon\218.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\218.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\218.png.meta
+      projectPath: Assets\Artwork\Lexicon\218.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\219.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\219.png
+      projectPath: Assets\Artwork\Lexicon\219.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\219.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\219.png.meta
+      projectPath: Assets\Artwork\Lexicon\219.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\22.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\22.png
+      projectPath: Assets\Artwork\Lexicon\22.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\22.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\22.png.meta
+      projectPath: Assets\Artwork\Lexicon\22.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\220.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\220.png
+      projectPath: Assets\Artwork\Lexicon\220.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\220.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\220.png.meta
+      projectPath: Assets\Artwork\Lexicon\220.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\221.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\221.png
+      projectPath: Assets\Artwork\Lexicon\221.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\221.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\221.png.meta
+      projectPath: Assets\Artwork\Lexicon\221.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\222.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\222.png
+      projectPath: Assets\Artwork\Lexicon\222.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\222.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\222.png.meta
+      projectPath: Assets\Artwork\Lexicon\222.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\223.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\223.png
+      projectPath: Assets\Artwork\Lexicon\223.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\223.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\223.png.meta
+      projectPath: Assets\Artwork\Lexicon\223.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\224.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\224.png
+      projectPath: Assets\Artwork\Lexicon\224.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\224.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\224.png.meta
+      projectPath: Assets\Artwork\Lexicon\224.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\225.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\225.png
+      projectPath: Assets\Artwork\Lexicon\225.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\225.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\225.png.meta
+      projectPath: Assets\Artwork\Lexicon\225.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\226.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\226.png
+      projectPath: Assets\Artwork\Lexicon\226.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\226.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\226.png.meta
+      projectPath: Assets\Artwork\Lexicon\226.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\227.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\227.png
+      projectPath: Assets\Artwork\Lexicon\227.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\227.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\227.png.meta
+      projectPath: Assets\Artwork\Lexicon\227.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\228.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\228.png
+      projectPath: Assets\Artwork\Lexicon\228.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\228.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\228.png.meta
+      projectPath: Assets\Artwork\Lexicon\228.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\229.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\229.png
+      projectPath: Assets\Artwork\Lexicon\229.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\229.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\229.png.meta
+      projectPath: Assets\Artwork\Lexicon\229.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\23.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\23.png
+      projectPath: Assets\Artwork\Lexicon\23.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\23.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\23.png.meta
+      projectPath: Assets\Artwork\Lexicon\23.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\230.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\230.png
+      projectPath: Assets\Artwork\Lexicon\230.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\230.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\230.png.meta
+      projectPath: Assets\Artwork\Lexicon\230.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\231.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\231.png
+      projectPath: Assets\Artwork\Lexicon\231.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\231.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\231.png.meta
+      projectPath: Assets\Artwork\Lexicon\231.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\232.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\232.png
+      projectPath: Assets\Artwork\Lexicon\232.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\232.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\232.png.meta
+      projectPath: Assets\Artwork\Lexicon\232.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\233.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\233.png
+      projectPath: Assets\Artwork\Lexicon\233.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\233.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\233.png.meta
+      projectPath: Assets\Artwork\Lexicon\233.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\234.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\234.png
+      projectPath: Assets\Artwork\Lexicon\234.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\234.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\234.png.meta
+      projectPath: Assets\Artwork\Lexicon\234.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\235.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\235.png
+      projectPath: Assets\Artwork\Lexicon\235.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\235.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\235.png.meta
+      projectPath: Assets\Artwork\Lexicon\235.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\236.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\236.png
+      projectPath: Assets\Artwork\Lexicon\236.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\236.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\236.png.meta
+      projectPath: Assets\Artwork\Lexicon\236.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\24.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\24.png
+      projectPath: Assets\Artwork\Lexicon\24.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\24.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\24.png.meta
+      projectPath: Assets\Artwork\Lexicon\24.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\25.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\25.png
+      projectPath: Assets\Artwork\Lexicon\25.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\25.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\25.png.meta
+      projectPath: Assets\Artwork\Lexicon\25.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\26.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\26.png
+      projectPath: Assets\Artwork\Lexicon\26.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\26.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\26.png.meta
+      projectPath: Assets\Artwork\Lexicon\26.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\27.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\27.png
+      projectPath: Assets\Artwork\Lexicon\27.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\27.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\27.png.meta
+      projectPath: Assets\Artwork\Lexicon\27.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\28.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\28.png
+      projectPath: Assets\Artwork\Lexicon\28.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\28.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\28.png.meta
+      projectPath: Assets\Artwork\Lexicon\28.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\29.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\29.png
+      projectPath: Assets\Artwork\Lexicon\29.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\29.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\29.png.meta
+      projectPath: Assets\Artwork\Lexicon\29.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\3.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\3.png
+      projectPath: Assets\Artwork\Lexicon\3.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\3.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\3.png.meta
+      projectPath: Assets\Artwork\Lexicon\3.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\30.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\30.png
+      projectPath: Assets\Artwork\Lexicon\30.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\30.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\30.png.meta
+      projectPath: Assets\Artwork\Lexicon\30.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\31.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\31.png
+      projectPath: Assets\Artwork\Lexicon\31.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\31.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\31.png.meta
+      projectPath: Assets\Artwork\Lexicon\31.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\32.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\32.png
+      projectPath: Assets\Artwork\Lexicon\32.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\32.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\32.png.meta
+      projectPath: Assets\Artwork\Lexicon\32.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\33.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\33.png
+      projectPath: Assets\Artwork\Lexicon\33.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\33.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\33.png.meta
+      projectPath: Assets\Artwork\Lexicon\33.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\34.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\34.png
+      projectPath: Assets\Artwork\Lexicon\34.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\34.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\34.png.meta
+      projectPath: Assets\Artwork\Lexicon\34.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\35.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\35.png
+      projectPath: Assets\Artwork\Lexicon\35.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\35.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\35.png.meta
+      projectPath: Assets\Artwork\Lexicon\35.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\36.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\36.png
+      projectPath: Assets\Artwork\Lexicon\36.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\36.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\36.png.meta
+      projectPath: Assets\Artwork\Lexicon\36.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\37.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\37.png
+      projectPath: Assets\Artwork\Lexicon\37.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\37.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\37.png.meta
+      projectPath: Assets\Artwork\Lexicon\37.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\38.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\38.png
+      projectPath: Assets\Artwork\Lexicon\38.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\38.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\38.png.meta
+      projectPath: Assets\Artwork\Lexicon\38.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\39.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\39.png
+      projectPath: Assets\Artwork\Lexicon\39.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\39.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\39.png.meta
+      projectPath: Assets\Artwork\Lexicon\39.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\4.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\4.png
+      projectPath: Assets\Artwork\Lexicon\4.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\4.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\4.png.meta
+      projectPath: Assets\Artwork\Lexicon\4.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\40.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\40.png
+      projectPath: Assets\Artwork\Lexicon\40.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\40.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\40.png.meta
+      projectPath: Assets\Artwork\Lexicon\40.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\41.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\41.png
+      projectPath: Assets\Artwork\Lexicon\41.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\41.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\41.png.meta
+      projectPath: Assets\Artwork\Lexicon\41.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\42.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\42.png
+      projectPath: Assets\Artwork\Lexicon\42.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\42.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\42.png.meta
+      projectPath: Assets\Artwork\Lexicon\42.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\43.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\43.png
+      projectPath: Assets\Artwork\Lexicon\43.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\43.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\43.png.meta
+      projectPath: Assets\Artwork\Lexicon\43.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\44.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\44.png
+      projectPath: Assets\Artwork\Lexicon\44.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\44.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\44.png.meta
+      projectPath: Assets\Artwork\Lexicon\44.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\45.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\45.png
+      projectPath: Assets\Artwork\Lexicon\45.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\45.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\45.png.meta
+      projectPath: Assets\Artwork\Lexicon\45.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\46.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\46.png
+      projectPath: Assets\Artwork\Lexicon\46.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\46.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\46.png.meta
+      projectPath: Assets\Artwork\Lexicon\46.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\47.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\47.png
+      projectPath: Assets\Artwork\Lexicon\47.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\47.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\47.png.meta
+      projectPath: Assets\Artwork\Lexicon\47.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\48.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\48.png
+      projectPath: Assets\Artwork\Lexicon\48.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\48.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\48.png.meta
+      projectPath: Assets\Artwork\Lexicon\48.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\49.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\49.png
+      projectPath: Assets\Artwork\Lexicon\49.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\49.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\49.png.meta
+      projectPath: Assets\Artwork\Lexicon\49.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\5.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\5.png
+      projectPath: Assets\Artwork\Lexicon\5.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\5.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\5.png.meta
+      projectPath: Assets\Artwork\Lexicon\5.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\50.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\50.png
+      projectPath: Assets\Artwork\Lexicon\50.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\50.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\50.png.meta
+      projectPath: Assets\Artwork\Lexicon\50.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\51.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\51.png
+      projectPath: Assets\Artwork\Lexicon\51.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\51.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\51.png.meta
+      projectPath: Assets\Artwork\Lexicon\51.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\52.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\52.png
+      projectPath: Assets\Artwork\Lexicon\52.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\52.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\52.png.meta
+      projectPath: Assets\Artwork\Lexicon\52.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\53.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\53.png
+      projectPath: Assets\Artwork\Lexicon\53.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\53.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\53.png.meta
+      projectPath: Assets\Artwork\Lexicon\53.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\54.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\54.png
+      projectPath: Assets\Artwork\Lexicon\54.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\54.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\54.png.meta
+      projectPath: Assets\Artwork\Lexicon\54.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\55.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\55.png
+      projectPath: Assets\Artwork\Lexicon\55.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\55.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\55.png.meta
+      projectPath: Assets\Artwork\Lexicon\55.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\56.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\56.png
+      projectPath: Assets\Artwork\Lexicon\56.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\56.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\56.png.meta
+      projectPath: Assets\Artwork\Lexicon\56.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\57.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\57.png
+      projectPath: Assets\Artwork\Lexicon\57.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\57.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\57.png.meta
+      projectPath: Assets\Artwork\Lexicon\57.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\58.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\58.png
+      projectPath: Assets\Artwork\Lexicon\58.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\58.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\58.png.meta
+      projectPath: Assets\Artwork\Lexicon\58.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\59.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\59.png
+      projectPath: Assets\Artwork\Lexicon\59.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\59.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\59.png.meta
+      projectPath: Assets\Artwork\Lexicon\59.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\6.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\6.png
+      projectPath: Assets\Artwork\Lexicon\6.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\6.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\6.png.meta
+      projectPath: Assets\Artwork\Lexicon\6.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\60.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\60.png
+      projectPath: Assets\Artwork\Lexicon\60.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\60.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\60.png.meta
+      projectPath: Assets\Artwork\Lexicon\60.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\61.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\61.png
+      projectPath: Assets\Artwork\Lexicon\61.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\61.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\61.png.meta
+      projectPath: Assets\Artwork\Lexicon\61.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\62.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\62.png
+      projectPath: Assets\Artwork\Lexicon\62.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\62.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\62.png.meta
+      projectPath: Assets\Artwork\Lexicon\62.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\63.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\63.png
+      projectPath: Assets\Artwork\Lexicon\63.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\63.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\63.png.meta
+      projectPath: Assets\Artwork\Lexicon\63.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\64.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\64.png
+      projectPath: Assets\Artwork\Lexicon\64.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\64.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\64.png.meta
+      projectPath: Assets\Artwork\Lexicon\64.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\65.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\65.png
+      projectPath: Assets\Artwork\Lexicon\65.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\65.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\65.png.meta
+      projectPath: Assets\Artwork\Lexicon\65.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\66.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\66.png
+      projectPath: Assets\Artwork\Lexicon\66.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\66.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\66.png.meta
+      projectPath: Assets\Artwork\Lexicon\66.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\67.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\67.png
+      projectPath: Assets\Artwork\Lexicon\67.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\67.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\67.png.meta
+      projectPath: Assets\Artwork\Lexicon\67.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\68.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\68.png
+      projectPath: Assets\Artwork\Lexicon\68.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\68.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\68.png.meta
+      projectPath: Assets\Artwork\Lexicon\68.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\69.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\69.png
+      projectPath: Assets\Artwork\Lexicon\69.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\69.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\69.png.meta
+      projectPath: Assets\Artwork\Lexicon\69.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\7.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\7.png
+      projectPath: Assets\Artwork\Lexicon\7.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\7.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\7.png.meta
+      projectPath: Assets\Artwork\Lexicon\7.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\70.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\70.png
+      projectPath: Assets\Artwork\Lexicon\70.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\70.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\70.png.meta
+      projectPath: Assets\Artwork\Lexicon\70.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\71.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\71.png
+      projectPath: Assets\Artwork\Lexicon\71.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\71.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\71.png.meta
+      projectPath: Assets\Artwork\Lexicon\71.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\72.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\72.png
+      projectPath: Assets\Artwork\Lexicon\72.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\72.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\72.png.meta
+      projectPath: Assets\Artwork\Lexicon\72.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\73.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\73.png
+      projectPath: Assets\Artwork\Lexicon\73.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\73.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\73.png.meta
+      projectPath: Assets\Artwork\Lexicon\73.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\74.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\74.png
+      projectPath: Assets\Artwork\Lexicon\74.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\74.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\74.png.meta
+      projectPath: Assets\Artwork\Lexicon\74.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\75.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\75.png
+      projectPath: Assets\Artwork\Lexicon\75.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\75.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\75.png.meta
+      projectPath: Assets\Artwork\Lexicon\75.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\76.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\76.png
+      projectPath: Assets\Artwork\Lexicon\76.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\76.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\76.png.meta
+      projectPath: Assets\Artwork\Lexicon\76.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\77.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\77.png
+      projectPath: Assets\Artwork\Lexicon\77.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\77.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\77.png.meta
+      projectPath: Assets\Artwork\Lexicon\77.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\78.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\78.png
+      projectPath: Assets\Artwork\Lexicon\78.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\78.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\78.png.meta
+      projectPath: Assets\Artwork\Lexicon\78.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\79.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\79.png
+      projectPath: Assets\Artwork\Lexicon\79.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\79.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\79.png.meta
+      projectPath: Assets\Artwork\Lexicon\79.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\8.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\8.png
+      projectPath: Assets\Artwork\Lexicon\8.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\8.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\8.png.meta
+      projectPath: Assets\Artwork\Lexicon\8.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\80.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\80.png
+      projectPath: Assets\Artwork\Lexicon\80.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\80.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\80.png.meta
+      projectPath: Assets\Artwork\Lexicon\80.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\81.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\81.png
+      projectPath: Assets\Artwork\Lexicon\81.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\81.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\81.png.meta
+      projectPath: Assets\Artwork\Lexicon\81.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\82.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\82.png
+      projectPath: Assets\Artwork\Lexicon\82.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\82.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\82.png.meta
+      projectPath: Assets\Artwork\Lexicon\82.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\83.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\83.png
+      projectPath: Assets\Artwork\Lexicon\83.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\83.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\83.png.meta
+      projectPath: Assets\Artwork\Lexicon\83.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\84.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\84.png
+      projectPath: Assets\Artwork\Lexicon\84.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\84.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\84.png.meta
+      projectPath: Assets\Artwork\Lexicon\84.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\85.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\85.png
+      projectPath: Assets\Artwork\Lexicon\85.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\85.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\85.png.meta
+      projectPath: Assets\Artwork\Lexicon\85.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\86.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\86.png
+      projectPath: Assets\Artwork\Lexicon\86.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\86.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\86.png.meta
+      projectPath: Assets\Artwork\Lexicon\86.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\87.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\87.png
+      projectPath: Assets\Artwork\Lexicon\87.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\87.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\87.png.meta
+      projectPath: Assets\Artwork\Lexicon\87.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\88.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\88.png
+      projectPath: Assets\Artwork\Lexicon\88.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\88.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\88.png.meta
+      projectPath: Assets\Artwork\Lexicon\88.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\89.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\89.png
+      projectPath: Assets\Artwork\Lexicon\89.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\89.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\89.png.meta
+      projectPath: Assets\Artwork\Lexicon\89.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\9.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\9.png
+      projectPath: Assets\Artwork\Lexicon\9.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\9.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\9.png.meta
+      projectPath: Assets\Artwork\Lexicon\9.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\90.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\90.png
+      projectPath: Assets\Artwork\Lexicon\90.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\90.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\90.png.meta
+      projectPath: Assets\Artwork\Lexicon\90.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\91.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\91.png
+      projectPath: Assets\Artwork\Lexicon\91.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\91.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\91.png.meta
+      projectPath: Assets\Artwork\Lexicon\91.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\92.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\92.png
+      projectPath: Assets\Artwork\Lexicon\92.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\92.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\92.png.meta
+      projectPath: Assets\Artwork\Lexicon\92.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\93.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\93.png
+      projectPath: Assets\Artwork\Lexicon\93.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\93.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\93.png.meta
+      projectPath: Assets\Artwork\Lexicon\93.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\94.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\94.png
+      projectPath: Assets\Artwork\Lexicon\94.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\94.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\94.png.meta
+      projectPath: Assets\Artwork\Lexicon\94.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\95.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\95.png
+      projectPath: Assets\Artwork\Lexicon\95.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\95.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\95.png.meta
+      projectPath: Assets\Artwork\Lexicon\95.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\96.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\96.png
+      projectPath: Assets\Artwork\Lexicon\96.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\96.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\96.png.meta
+      projectPath: Assets\Artwork\Lexicon\96.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\97.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\97.png
+      projectPath: Assets\Artwork\Lexicon\97.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\97.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\97.png.meta
+      projectPath: Assets\Artwork\Lexicon\97.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\98.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\98.png
+      projectPath: Assets\Artwork\Lexicon\98.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\98.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\98.png.meta
+      projectPath: Assets\Artwork\Lexicon\98.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\99.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\99.png
+      projectPath: Assets\Artwork\Lexicon\99.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Artwork\Lexicon\99.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Artwork\Lexicon\99.png.meta
+      projectPath: Assets\Artwork\Lexicon\99.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Editor.meta
+      projectPath: Assets\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Resources.meta
+      projectPath: Assets\Resources.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\Cards.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Resources\Cards.meta
+      projectPath: Assets\Resources\Cards.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\Cards\001.asset
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Resources\Cards\001.asset
+      projectPath: Assets\Resources\Cards\001.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\Cards\001.asset.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Resources\Cards\001.asset.meta
+      projectPath: Assets\Resources\Cards\001.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Scenes\SampleScene.unity.meta
+      projectPath: Assets\Scenes\SampleScene.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scritps.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Scritps.meta
+      projectPath: Assets\Scritps.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scritps\BattleSystem.cs
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Scritps\BattleSystem.cs
+      projectPath: Assets\Scritps\BattleSystem.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scritps\BattleSystem.cs.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Scritps\BattleSystem.cs.meta
+      projectPath: Assets\Scritps\BattleSystem.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scritps\Card.cs
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Scritps\Card.cs
+      projectPath: Assets\Scritps\Card.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scritps\Card.cs.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Scritps\Card.cs.meta
+      projectPath: Assets\Scritps\Card.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scritps\CardDisplay.cs
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Scritps\CardDisplay.cs
+      projectPath: Assets\Scritps\CardDisplay.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scritps\CardDisplay.cs.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Scritps\CardDisplay.cs.meta
+      projectPath: Assets\Scritps\CardDisplay.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scritps\CardScriptableObject.cs
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Scritps\CardScriptableObject.cs
+      projectPath: Assets\Scritps\CardScriptableObject.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scritps\CardScriptableObject.cs.meta
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\Scritps\CardScriptableObject.cs.meta
+      projectPath: Assets\Scritps\CardScriptableObject.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\manifest.json
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\packages-lock.json
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Packages\packages-lock.json
+      projectPath: Packages\packages-lock.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\PackageManagerSettings.asset
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\ProjectSettings\PackageManagerSettings.asset
+      projectPath: ProjectSettings\PackageManagerSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\PresetManager.asset
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\VFXManager.asset
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\ProjectSettings\VFXManager.asset
+      projectPath: ProjectSettings\VFXManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\VersionControlSettings.asset
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\ProjectSettings\VersionControlSettings.asset
+      projectPath: ProjectSettings\VersionControlSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\XRSettings.asset
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\ProjectSettings\XRSettings.asset
+      projectPath: ProjectSettings\XRSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UserSettings\EditorUserSettings.asset
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\UserSettings\EditorUserSettings.asset
+      projectPath: UserSettings\EditorUserSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: e15b1ccad59b6fbbdae5cf1e47c6a79e0fa6b4f1
+    mergeA: 
+    mergeB: 
+    authorName: Thingula
+    authorEmail: mims.christopher@gmail.com
+    commitEmail: mims.christopher@gmail.com
+    commitName: Thingula
+    summary: Initial commit
+    description: 
+    timeString: 2022-04-25T13:58:10.000-04:00
+    commitTimeString: 2022-04-25T13:58:10.000-04:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: C:\Users\mimsc\Documents\Projects\Untiy\Lexicon\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
