@@ -61,6 +61,9 @@
     <Compile Include="Assets\Scritps\Card.cs" />
     <Compile Include="Assets\Scritps\CardScriptableObject.cs" />
     <Compile Include="Assets\Scritps\GameManager.cs" />
+    <Compile Include="Assets\Manaspark Studio\Hierarchy Dividers\Scripts\Shared\DividerPreset_SCO.cs" />
+    <Compile Include="Assets\Manaspark Studio\Hierarchy Dividers\Scripts\Basic\HierarchyDividerDrawing.cs" />
+    <Compile Include="Assets\Manaspark Studio\Hierarchy Dividers\Scripts\Basic\HierarchyDivider.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
