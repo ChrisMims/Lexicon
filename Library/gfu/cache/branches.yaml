@@ -13,47 +13,39 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2022-05-12T13:57:13.918-04:00
-  initializedAtString: 2022-05-12T13:57:13.896-04:00
-  localBranches:
-  - name: master
-    tracking: origin/master
+  lastUpdatedAtString: 2022-05-18T14:09:26.581-04:00
+  initializedAtString: 2022-05-18T13:00:19.718-04:00
+  localBranches: []
   remoteBranches:
-  - name: origin/master
+  - name: origin/main
     tracking: '[None]'
   remotes:
   - name: origin
-    url: https://github.com/Thingula/LexiconUnity.git
+    url: https://github.com/ChrisMims/Lexicon.git
     login: 
     user: 
     host: 
     function: 0
     token: 
   localConfigBranches:
-    keys:
-    - master
-    values:
-    - name: master
-      remote:
-        name: origin
-        url: https://github.com/Thingula/LexiconUnity.git
-      trackingBranch: master
+    keys: []
+    values: []
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
-      - master
+      - main
     subKeyValues:
     - Values:
-      - name: master
+      - name: main
         remote:
           name: origin
-          url: https://github.com/Thingula/LexiconUnity.git
+          url: https://github.com/ChrisMims/Lexicon.git
         trackingBranch: 
   configRemotes:
     keys:
     - origin
     values:
     - name: origin
-      url: https://github.com/Thingula/LexiconUnity.git
+      url: https://github.com/ChrisMims/Lexicon.git

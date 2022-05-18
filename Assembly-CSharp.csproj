@@ -60,6 +60,7 @@
     <Compile Include="Assets\Scritps\CardDisplay.cs" />
     <Compile Include="Assets\Scritps\Card.cs" />
     <Compile Include="Assets\Scritps\CardScriptableObject.cs" />
+    <Compile Include="Assets\Scritps\GameManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
