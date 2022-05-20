@@ -760,6 +760,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: df2c8bee9cfa27341a59cd3ed79d255b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  isPlayed: 0
+  handIndex: 0
+  matIndex: 0
 --- !u!114 &3040130568736923548
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -772,3 +775,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0728cfad06bc1945bfa8970f1a90742, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  cardScript: {fileID: 0}
+  descriptionText: {fileID: 0}
+  artworkImage: {fileID: 0}
+  manaText: {fileID: 0}
+  attackText: {fileID: 0}
+  healthText: {fileID: 0}
+  loadId: 0

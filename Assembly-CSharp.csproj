@@ -58,12 +58,12 @@
   <ItemGroup>
     <Compile Include="Assets\Scritps\BattleSystem.cs" />
     <Compile Include="Assets\Scritps\CardDisplay.cs" />
+    <Compile Include="Assets\Manaspark Studio\Hierarchy Dividers\Scripts\Basic\HierarchyDivider.cs" />
     <Compile Include="Assets\Scritps\Card.cs" />
-    <Compile Include="Assets\Scritps\CardScriptableObject.cs" />
-    <Compile Include="Assets\Scritps\GameManager.cs" />
     <Compile Include="Assets\Manaspark Studio\Hierarchy Dividers\Scripts\Shared\DividerPreset_SCO.cs" />
     <Compile Include="Assets\Manaspark Studio\Hierarchy Dividers\Scripts\Basic\HierarchyDividerDrawing.cs" />
-    <Compile Include="Assets\Manaspark Studio\Hierarchy Dividers\Scripts\Basic\HierarchyDivider.cs" />
+    <Compile Include="Assets\Scritps\CardScriptableObject.cs" />
+    <Compile Include="Assets\Scritps\GameManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
@@ -310,9 +310,6 @@
     </Reference>
     <Reference Include="UnityEditor.UnityConnectModule">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
-    </Reference>
-    <Reference Include="Newtonsoft.Json">
-      <HintPath>Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0\Runtime\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Data\NetStandard\ref\2.0.0\netstandard.dll</HintPath>
